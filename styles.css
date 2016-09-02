@@ -1,14 +1,14 @@
 body{
-	background:#333333 url(images/page-bg.jpg);
+	background:#333333 url(images/backcoca.jpg);
 	margin:0px;
 	font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
-	color:#6a6969;
+	color:white;
 }
-h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#6a6969;}
+h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:white;}
+h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:white;}
+h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:white;}
 ul{margin:0px; padding:0px;}
-a {text-decoration:none; color:#6a6969;}
+a {text-decoration:none; color:white;}
 a:hover {color:#979797;}
 a img{border:0px;}
 
@@ -96,7 +96,7 @@ a img{border:0px;}
 /* EXPERIENCE SECTION */
 /****************************************************/
 
-#experience{color: white; margin:0px 43px; padding-top:115px;}
+#experience{color: white;margin:0px 43px; padding-top:115px;}
 #experience .col{
 	color:white;
 	width:235px;
