@@ -96,8 +96,9 @@ a img{border:0px;}
 /* EXPERIENCE SECTION */
 /****************************************************/
 
-#experience{margin:0px 43px; padding-top:115px;}
+#experience{color: white; margin:0px 43px; padding-top:115px;}
 #experience .col{
+	color:white;
 	width:235px;
 	float:left;
 }
